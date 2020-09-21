@@ -6,7 +6,7 @@ public class cliente {
 
      ServerSocket = null;
      Socket sc = null;
-     final int PUERTO 5000;
+     final int PUERTO 3500;
 
 
      try{
