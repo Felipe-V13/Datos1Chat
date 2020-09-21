@@ -1,20 +1,15 @@
-
-package soskets1;
-
-public class cliente {
-    public static void main(Streign[],args){
-
-     ServerSocket = null;
-     Socket sc = null;
-     final int PUERTO 3500;
+import javax.swing.*;
 
 
-     try{
-         servidor = new ServerSocket (PUERTO)
+public class Cliente {
 
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
 
-     } catch (IOException ex){
-          Lo
-     }
+        MarcoCliente mimarco=new MarcoCliente();
+
+        mimarco.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
     }
+
 }
